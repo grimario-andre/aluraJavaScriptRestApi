@@ -1,0 +1,327 @@
+[2025-05-27 02:09:15] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:09:15] INFO: Senha criptografada
+[2025-05-27 02:09:15] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:09:15] ERROR: Erro ao cadastrar usuário: Cannot read property 'id' of undefined
+[2025-05-27 02:13:16] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:13:16] INFO: Senha criptografada
+[2025-05-27 02:13:16] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:13:16] ERROR: Erro ao cadastrar usuário: Cannot read property 'id' of undefined
+[2025-05-27 02:13:46] INFO: Conectando ao banco...
+[2025-05-27 02:13:46] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:13:47] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:13:47] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:13:47] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:13:47] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:13:47] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:13:47] INFO: Server online http://localhost:3000
+[2025-05-27 02:13:48] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:13:48] INFO: Senha criptografada
+[2025-05-27 02:16:35] INFO: Conectando ao banco...
+[2025-05-27 02:16:35] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:16:35] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:16:35] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:16:35] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:16:35] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:16:35] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:16:35] INFO: Server online http://localhost:3000
+[2025-05-27 02:16:41] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:16:41] INFO: Senha criptografada
+[2025-05-27 02:16:41] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:16:41] ERROR: Erro ao cadastrar usuário: Cannot read property 'id' of undefined
+[2025-05-27 02:16:56] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:16:56] INFO: Senha criptografada
+[2025-05-27 02:16:56] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:16:56] ERROR: Erro ao cadastrar usuário: Cannot read property 'id' of undefined
+[2025-05-27 02:20:36] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:20:36] INFO: Senha criptografada
+[2025-05-27 02:20:36] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:20:36] ERROR: Erro ao cadastrar usuário: Cannot read property 'id' of undefined
+[2025-05-27 02:20:42] INFO: Conectando ao banco...
+[2025-05-27 02:20:42] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:20:42] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:20:42] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:20:42] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:20:42] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:20:42] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:20:42] INFO: Server online http://localhost:3000
+[2025-05-27 02:20:44] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:20:44] INFO: Senha criptografada
+[2025-05-27 02:20:44] ERROR: Erro ao cadastrar usuário: dataUsuario is not defined
+[2025-05-27 02:23:26] INFO: Conectando ao banco...
+[2025-05-27 02:23:26] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:23:26] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:23:26] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:23:26] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:23:27] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:23:27] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:23:27] INFO: Server online http://localhost:3000
+[2025-05-27 02:23:31] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:23:31] INFO: Senha criptografada
+[2025-05-27 02:23:31] INFO: Contato do usuario cadastrado
+[2025-05-27 02:23:31] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:23:56] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:23:56] INFO: Senha criptografada
+[2025-05-27 02:23:56] INFO: Contato do usuario cadastrado
+[2025-05-27 02:23:56] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:25:09] INFO: Conectando ao banco...
+[2025-05-27 02:25:09] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:25:09] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:25:09] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:25:10] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:25:10] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:25:10] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:25:10] INFO: Server online http://localhost:3000
+[2025-05-27 02:25:13] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:25:13] INFO: Senha criptografada
+[2025-05-27 02:25:13] INFO: Contato do usuario cadastrado
+[2025-05-27 02:25:38] INFO: Conectando ao banco...
+[2025-05-27 02:25:38] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:25:38] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:25:38] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:25:39] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:25:39] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:25:39] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:25:39] INFO: Server online http://localhost:3000
+[2025-05-27 02:25:43] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:25:43] INFO: Senha criptografada
+[2025-05-27 02:25:43] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:26:15] INFO: Conectando ao banco...
+[2025-05-27 02:26:15] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:26:16] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:26:16] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:26:16] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:26:16] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:26:16] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:26:16] INFO: Server online http://localhost:3000
+[2025-05-27 02:27:04] INFO: Conectando ao banco...
+[2025-05-27 02:27:04] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:27:04] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:27:04] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:27:04] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:27:04] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:27:04] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:27:04] INFO: Server online http://localhost:3000
+[2025-05-27 02:27:12] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:27:12] INFO: Senha criptografada
+[2025-05-27 02:27:30] INFO: Conectando ao banco...
+[2025-05-27 02:27:30] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:27:30] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:27:30] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:27:30] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:27:30] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:27:30] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:27:30] INFO: Server online http://localhost:3000
+[2025-05-27 02:27:32] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:27:32] INFO: Senha criptografada
+[2025-05-27 02:28:06] INFO: Conectando ao banco...
+[2025-05-27 02:28:07] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:28:07] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:28:07] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:28:07] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:28:07] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:28:07] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:28:07] INFO: Server online http://localhost:3000
+[2025-05-27 02:28:09] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:28:09] INFO: Senha criptografada
+[2025-05-27 02:28:31] INFO: Conectando ao banco...
+[2025-05-27 02:28:31] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:28:31] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:28:31] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:28:31] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:28:31] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:28:31] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:28:31] INFO: Server online http://localhost:3000
+[2025-05-27 02:32:55] INFO: Conectando ao banco...
+[2025-05-27 02:32:55] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:32:55] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:32:55] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:32:55] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:32:55] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:32:55] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:32:55] INFO: Server online http://localhost:3000
+[2025-05-27 02:32:58] INFO: Conectando ao banco...
+[2025-05-27 02:32:59] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:32:59] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:32:59] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:32:59] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:32:59] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:32:59] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:32:59] INFO: Server online http://localhost:3000
+[2025-05-27 02:33:10] INFO: Conectando ao banco...
+[2025-05-27 02:33:10] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:33:10] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:33:10] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:33:10] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:33:10] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:33:10] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:33:10] INFO: Server online http://localhost:3000
+[2025-05-27 02:33:24] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:33:24] INFO: Senha criptografada
+[2025-05-27 02:33:24] INFO: Contato do usuario cadastrado
+[2025-05-27 02:33:25] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:34:04] INFO: Conectando ao banco...
+[2025-05-27 02:34:04] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:34:04] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:34:04] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:34:05] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:34:05] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:34:05] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:34:05] INFO: Server online http://localhost:3000
+[2025-05-27 02:34:23] INFO: Conectando ao banco...
+[2025-05-27 02:34:24] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:34:24] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:34:24] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:34:24] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:34:24] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:34:24] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:34:24] INFO: Server online http://localhost:3000
+[2025-05-27 02:34:26] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:34:26] INFO: Senha criptografada
+[2025-05-27 02:34:26] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:35:20] INFO: Conectando ao banco...
+[2025-05-27 02:35:20] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:35:20] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:35:20] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:35:20] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:35:20] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:35:20] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:35:20] INFO: Server online http://localhost:3000
+[2025-05-27 02:36:05] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:36:05] WARN: Este cpf já consta na base 999.999.999-20
+[2025-05-27 02:36:14] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:36:14] INFO: Senha criptografada
+[2025-05-27 02:36:14] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:36:44] INFO: Conectando ao banco...
+[2025-05-27 02:36:44] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:36:44] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:36:44] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:36:44] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:36:44] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:36:44] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:36:44] INFO: Server online http://localhost:3000
+[2025-05-27 02:36:51] INFO: Conectando ao banco...
+[2025-05-27 02:36:51] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:36:51] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:36:51] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:36:51] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:36:51] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:36:51] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:36:51] INFO: Server online http://localhost:3000
+[2025-05-27 02:36:56] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:36:56] INFO: Senha criptografada
+[2025-05-27 02:36:56] INFO: Contato do usuario cadastrado
+[2025-05-27 02:36:56] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:37:35] INFO: Conectando ao banco...
+[2025-05-27 02:37:35] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:37:35] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:37:35] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:37:35] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:37:36] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:37:36] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:37:36] INFO: Server online http://localhost:3000
+[2025-05-27 02:37:59] INFO: Conectando ao banco...
+[2025-05-27 02:37:59] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:37:59] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:37:59] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:37:59] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:37:59] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:37:59] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:37:59] INFO: Server online http://localhost:3000
+[2025-05-27 02:38:00] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:38:00] INFO: Senha criptografada
+[2025-05-27 02:38:00] INFO: Contato do usuario cadastrado
+[2025-05-27 02:38:00] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:38:16] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:38:16] INFO: Senha criptografada
+[2025-05-27 02:38:16] INFO: Contato do usuario cadastrado
+[2025-05-27 02:38:16] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:38:35] INFO: Conectando ao banco...
+[2025-05-27 02:38:35] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:38:35] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:38:35] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:38:35] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:38:35] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:38:35] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:38:35] INFO: Server online http://localhost:3000
+[2025-05-27 02:38:37] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:38:37] INFO: Senha criptografada
+[2025-05-27 02:38:37] INFO: Contato do usuario cadastrado
+[2025-05-27 02:38:37] ERROR: Erro ao cadastrar usuário: 
+[2025-05-27 02:39:02] INFO: Conectando ao banco...
+[2025-05-27 02:39:02] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:39:02] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:39:02] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:39:02] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:39:02] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:39:02] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:39:02] INFO: Server online http://localhost:3000
+[2025-05-27 02:39:11] INFO: Conectando ao banco...
+[2025-05-27 02:39:11] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:39:11] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:39:11] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:39:11] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:39:12] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:39:12] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:39:12] INFO: Server online http://localhost:3000
+[2025-05-27 02:39:18] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:39:18] INFO: Senha criptografada
+[2025-05-27 02:39:18] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:40:31] INFO: Conectando ao banco...
+[2025-05-27 02:40:32] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:40:32] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:40:32] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:40:32] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:40:32] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:40:32] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:40:32] INFO: Server online http://localhost:3000
+[2025-05-27 02:44:49] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:44:49] INFO: Senha criptografada
+[2025-05-27 02:44:49] INFO: Contato do usuario cadastrado
+[2025-05-27 02:44:50] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:49:56] INFO: Conectando ao banco...
+[2025-05-27 02:49:56] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:49:56] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:49:56] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:49:57] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:49:57] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:49:57] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:49:57] INFO: Server online http://localhost:3000
+[2025-05-27 02:50:34] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:50:34] INFO: Senha criptografada
+[2025-05-27 02:50:34] INFO: Contato do usuario cadastrado
+[2025-05-27 02:50:34] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:51:24] INFO: Conectando ao banco...
+[2025-05-27 02:51:25] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:51:25] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:51:25] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:51:25] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:51:25] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:51:25] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:51:25] INFO: Server online http://localhost:3000
+[2025-05-27 02:51:48] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:51:48] INFO: Senha criptografada
+[2025-05-27 02:51:48] INFO: Contato do usuario cadastrado
+[2025-05-27 02:51:49] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:51:49] ERROR: Erro ao cadastrar usuário: row is not defined
+[2025-05-27 02:51:56] INFO: Conectando ao banco...
+[2025-05-27 02:51:56] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:51:56] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:51:56] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:51:57] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:51:57] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:51:57] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:51:57] INFO: Server online http://localhost:3000
+[2025-05-27 02:52:01] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:52:01] WARN: Este cpf já consta na base 999.999.999-25
+[2025-05-27 02:53:02] INFO: Consulta a base efetuada com sucesso
+[2025-05-27 02:53:02] INFO: Senha criptografada
+[2025-05-27 02:53:02] INFO: Contato do usuario cadastrado
+[2025-05-27 02:53:02] INFO: Usuário cadastrado com sucesso
+[2025-05-27 02:53:33] INFO: Conectando ao banco...
+[2025-05-27 02:53:34] INFO: Iniciando criação das tabelas...
+[2025-05-27 02:53:34] INFO: Tabela usuarios criada com sucesso.
+[2025-05-27 02:53:34] INFO: Tabela contatos criada com sucesso
+[2025-05-27 02:53:34] INFO: Tabela pets criada com sucesso
+[2025-05-27 02:53:34] INFO: Tabela consultas criada com sucesso
+[2025-05-27 02:53:34] INFO: Tabelas criadas com sucesso.
+[2025-05-27 02:53:34] INFO: Server online http://localhost:3000
